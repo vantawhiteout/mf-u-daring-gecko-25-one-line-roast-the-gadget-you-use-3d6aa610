@@ -1,0 +1,8 @@
+{
+  "name": "one-line-roast-gadget",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Deterministic one-line roast entry for make.fun",
+  "license": "MIT"
+}
